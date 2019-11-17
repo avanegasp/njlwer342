@@ -46,7 +46,4 @@ constructor() {
 
 }
 
-
-
-
-export default
+export default App
